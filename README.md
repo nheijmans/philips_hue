@@ -1,6 +1,6 @@
 # Go Hue Control!
 The hueControl script allows you to retrieve the information from your Hue devices programmatically with the standard builtin API.
-This [blog post](https://threat-hunting.ninja/posts/philips-hue) accompanies this repo.
+This [blog post](https://threat-hunting.ninja/posts/philips-hue-automation) accompanies this repo.
 
 ## Usage
 First pull the Docker image
